@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a9c3ffb8-256f-0ded-f7cf-d73158886d56
 resourcetype: Document
 title: 'WGS.301JF14 Feminist Thought - Lecture Notes: The Subjection of Women'
 uid: cc14d90f-24c5-70a3-b7fe-cdc9d51136af

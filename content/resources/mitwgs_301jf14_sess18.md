@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a9c3ffb8-256f-0ded-f7cf-d73158886d56
 resourcetype: Document
 title: 'WGS.301JF14 Feminist Thought - Lecture Notes: Women, Lesbians, Virgins'
 uid: 1a3d12f8-3280-1c60-aca5-89dd4a69eb31
