@@ -3,7 +3,7 @@ content_type: resource
 description: A portrait of Simone de Beauvoir, known for her 1949 book The Second
   Sex, a major work of feminist philosophy. Image courtesy of thierry ehrmann on flickr.
   License CC BY.
-file: /media/courses/wgs-301j-feminist-thought-fall-2014/a21f3bd4593055eb9637f3d22e627544_wgs-301jf14-th.jpg
+file: /courses/wgs-301j-feminist-thought-fall-2014/a21f3bd4593055eb9637f3d22e627544_wgs-301jf14-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A portrait of Simone de Beauvoir, known for her 1949 book _The Second Sex_,
@@ -18,3 +18,5 @@ resourcetype: Image
 title: wgs-301jf14-th.jpg
 uid: a21f3bd4-5930-55eb-9637-f3d22e627544
 ---
+A portrait of Simone de Beauvoir, known for her 1949 book The Second Sex, a major work of feminist philosophy. Image courtesy of thierry ehrmann on flickr. License CC BY.
+

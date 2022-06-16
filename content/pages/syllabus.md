@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, the course text, requirements, and evaluation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -26,7 +28,7 @@ Text
 
 Hackett, Elizabeth, and Sally Haslanger. _Theorizing Feminisms: A Reader_. Oxford University Press, 2005. ISBN: 9780195150094.
 
-All readings not in the text can be found in the table of the [Readings]({{< baseurl >}}/pages/readings) section.
+All readings not in the text can be found in the table of the {{% resource_link c203b43b-40bc-28a8-2180-80c6b9e51b8c "Readings" %}} section.
 
 Undergraduate Requirements
 --------------------------

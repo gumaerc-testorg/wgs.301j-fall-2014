@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with lecture
+  notes from selected sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -44,7 +46,7 @@ _Note: There are no lecture notes available for this session_
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Prejudice, Discrimination, and Oppression (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess2)
+{{% resource_link ec8b7f26-8c75-7fd9-a367-72491fe766f6 "Prejudice, Discrimination, and Oppression (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +55,7 @@ _Note: There are no lecture notes available for this session_
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Privilege and Speaking for Others (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess3)
+{{% resource_link ff7cd8e6-dde1-eac0-8fc8-b82a222fc1ef "Privilege and Speaking for Others (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +79,7 @@ _Note: There are no lecture notes available for this session_
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Social Construction: Class, Gender, Race Disability… (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess5)
+{{% resource_link 69cccf92-96dd-9b6b-56b8-cab76d296ee5 "Social Construction: Class, Gender, Race Disability… (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +88,7 @@ _Note: There are no lecture notes available for this session_
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Constructions of Gender (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess6)
+{{% resource_link 1ac51c24-219d-01cc-0783-d0c63df3c6e9 "Constructions of Gender (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +97,7 @@ _Note: There are no lecture notes available for this session_
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Mill's _The Subjection of Women_ (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess7)
+{{% resource_link cc14d90f-24c5-70a3-b7fe-cdc9d51136af "Mill's _The Subjection of Women_ (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +121,7 @@ _Note: There are no lecture notes available for this session_
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Beauvoir and Butler (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess9)
+{{% resource_link aa914984-3e87-5dfb-8c96-d38df46f37d3 "Beauvoir and Butler (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +130,7 @@ _Note: There are no lecture notes available for this session_
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Justice and Human Capabilities (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess10)
+{{% resource_link 282b0328-380b-d01a-92c1-ccd8cf4a2ec0 "Justice and Human Capabilities (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +154,7 @@ _Note: There are no lecture notes available for this session_
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[From Humanism to Gynocentrism (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess12)
+{{% resource_link cadae5fa-f931-b44f-35d4-dd3183cb3875 "From Humanism to Gynocentrism (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +163,7 @@ _Note: There are no lecture notes available for this session_
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Maternal Peace Politics (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess13)
+{{% resource_link afcfd9d7-6ce9-bda8-5184-aaa2f4d6ce3f "Maternal Peace Politics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +187,7 @@ _Note: There are no lecture notes available for this session_
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Difference and Dominance (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess15)
+{{% resource_link a28ec306-3cd4-d874-f9ea-8acf71224ff8 "Difference and Dominance (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -194,7 +196,7 @@ _Note: There are no lecture notes available for this session_
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Materialist Feminism (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess16)
+{{% resource_link ef8244c3-3122-ab04-134a-6351f82774ab "Materialist Feminism (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,7 +205,7 @@ _Note: There are no lecture notes available for this session_
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Pornography (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess17)
+{{% resource_link e3eb9256-5072-6a02-f1ed-77e42c00cc6b "Pornography (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -212,7 +214,7 @@ _Note: There are no lecture notes available for this session_
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Women, Lesbians, Virgins (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess18)
+{{% resource_link 1a3d12f8-3280-1c60-aca5-89dd4a69eb31 "Women, Lesbians, Virgins (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -221,7 +223,7 @@ _Note: There are no lecture notes available for this session_
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Identity Politics (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess19)
+{{% resource_link 73830d84-0b80-9f1a-3b80-af88614c854c "Identity Politics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -230,7 +232,7 @@ _Note: There are no lecture notes available for this session_
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Childbearing from the Perspective of Poor Black Women (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess20)
+{{% resource_link 7eb57b95-b79d-3337-ddcb-c286699a38c6 "Childbearing from the Perspective of Poor Black Women (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -239,7 +241,7 @@ _Note: There are no lecture notes available for this session_
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Recognition and Redistribution (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess21)
+{{% resource_link 02e3cb3f-2cd6-21d9-33b3-2eac07ed4e60 "Recognition and Redistribution (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -278,7 +280,7 @@ _Note: There are no lecture notes available for this session_
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Veiling and the Construction of Gender (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess24)
+{{% resource_link 00aaa62e-4f53-bde9-705f-4bc301b6b732 "Veiling and the Construction of Gender (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -302,7 +304,7 @@ _Note: There are no lecture notes available for this session_
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[Epistemic Injustice (PDF)]({{< baseurl >}}/resources/mitwgs_301jf14_sess26)
+{{% resource_link 24e11345-ec31-ad8f-6fd2-7c0c104165d9 "Epistemic Injustice (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
