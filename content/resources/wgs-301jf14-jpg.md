@@ -13,10 +13,10 @@ image_metadata:
   image-alt: A black and white mural of a woman's face, with  large eyes, a pointed
     nose, and thin lips, closed in a serious expression.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: wgs-301jf14.jpg.jpg
 uid: 5dc9ae42-1fd3-24db-3b71-b06d88e1b177
 ---
 A portrait of Simone de Beauvoir, known for her 1949 book The Second Sex, a major work of feminist philosophy. Image courtesy of thierry ehrmann on flickr. License CC BY.
-
