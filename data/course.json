@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2014",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -42,6 +43,7 @@
     "Lecture Notes",
     "Written Assignments"
   ],
-  "site_uid": "de3d6ae4-86d8-4ca9-b83e-4027b1e0d126",
+  "site_uid": "3e82aca0-78cb-41b9-a4aa-5b8a471e9962",
+  "site_short_id": "wgs.301j-fall-2014",
   "title": "Course Metadata"
 }
