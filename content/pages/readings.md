@@ -76,11 +76,11 @@ Privilege and Speaking for Others
 {{< tdopen >}}
 
 
-McIntosh, Peggy. ["White Privilege: Unpacking the Invisible Knapsack," (PDF)](https://www.pcc.edu/resources/illumination/documents/white-privilege-essay-mcintosh.pdf) Amptoons.
+McIntosh, Peggy. {{% resource_link "6f3da63d-d9c1-4833-b998-9f6540c6d519" "\"White Privilege: Unpacking the Invisible Knapsack,\" (PDF)" %}} Amptoons.
 
-Parker, Pat. "[For the White Person Who Wants to Know How to Be My Friend](http://condor.depaul.edu/mwilson/multicult/patparker.htm)," DePaul University.
+Parker, Pat. "{{% resource_link "69f75a37-2465-4e89-b631-995dc9dea798" "For the White Person Who Wants to Know How to Be My Friend" %}}," DePaul University.
 
-Crosley-Corcoran, Gina. "[Explaining White Privilege to a Broke White Person](http://www.huffingtonpost.com/gina-crosleycorcoran/explaining-white-privilege-to-a-broke-white-person_b_5269255.html)," _Huffington Post_, May 8, 2014.
+Crosley-Corcoran, Gina. "{{% resource_link "798352e7-0778-4896-acc6-2ff78af4b67d" "Explaining White Privilege to a Broke White Person" %}}," _Huffington Post_, May 8, 2014.
 
 ### Recommended
 
@@ -97,7 +97,7 @@ Bunch, Charlotte. "Not by Degrees: Feminist Theory and Education." In _Feminist 
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Film: [_Diagnosing Difference_](http://www.diagnosingdifference.com/). Directed by Annalise Ophelian. Color, 64 min. 2009.
+Film: {{% resource_link "44f0fdd0-413b-4c58-a445-f059b74602f6" "_Diagnosing Difference_" %}}. Directed by Annalise Ophelian. Color, 64 min. 2009.
 {{< tdclose >}}
 {{< tdopen >}}
 No readings assigned
@@ -138,14 +138,13 @@ Yoder, Janice D. "Biological Essentialism: Our Bodies, Ourselves?" In _Women and
 
 Dillon, Florence. "Tell Grandma I'm a Boy." In _Trans Forming Families: Real Stories About Transgendered Loved Ones_. 2nd ed. Edited by Mary Boenke. Oak Knoll Press, 2003. ISBN: 9780615123073.
 
-Spade, Dean. "Mutilating Gender." In _The Transgender Studies Reader._ Edited by Susan Stryker and Stephen Whittle. Routledge, 2006. ISBN: 9780415947091. \[Preview with [Google Books](http://books.google.com/books?id=HBRR1isU-VAC&pg=PA315#v=onepage)\]
+Spade, Dean. "Mutilating Gender." In _The Transgender Studies Reader._ Edited by Susan Stryker and Stephen Whittle. Routledge, 2006. ISBN: 9780415947091. \[Preview with {{% resource_link "adcbe93a-f3b2-4782-93bf-f48b002c8d30" "Google Books" %}}\]
 
 ### Recommended
 
 Fausto-Sterling, Anne. "A Genderless Future?" Chapter 1 in _Sex / Gender: Biology in a Social World_. Routledge, 2012. ISBN: 9780415881463.
 
-———. "Of Spirals and Layers." Chapter 2 in _Sex / Gender: Biology in a Social World_. Routledge, 2012. ISBN: 9780415881463. \[Preview with [Google Books](http://books.google.com/books?id=BhbJUlZvYwEC&pg=PA3#v=onepage)\][  
-](http://books.google.com/books?id=BhbJUlZvYwEC&pg=PA1#v=onepage&q=of%20spirals%20and%20layers&f=false)
+———. "Of Spirals and Layers." Chapter 2 in _Sex / Gender: Biology in a Social World_. Routledge, 2012. ISBN: 9780415881463. \[Preview with {{% resource_link "7babeb3c-0662-4313-887d-741c926cd7a2" "Google Books" %}}\]{{% resource_link "398d2484-eac3-4bb1-9830-42b43234e075" "   " %}}
 
 ———. "Of Hormones and Brains." Chapter 4 in _Sex / Gender: Biology in a Social World_. Routledge, 2012, pp. 27 and 36–42. ISBN: 9780415881463. 
 
@@ -285,7 +284,7 @@ _At least one of the following:_
 
 ### Recommended
 
-Haslanger, Sally. ["Epistemic Housekeeping and the Philosophical Canon: A Reflection on Jane Addams' 'Women and Public Housekeeping.'" (PDF)](http://sallyhaslanger.weebly.com/uploads/1/8/2/7/18272031/haslangerehpc-addams.pdf)
+Haslanger, Sally. {{% resource_link "501f7566-acad-451e-a387-f91a4333f112" "\"Epistemic Housekeeping and the Philosophical Canon: A Reflection on Jane Addams' 'Women and Public Housekeeping.'\" (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -367,9 +366,9 @@ Materialist Feminism
 
 ### Recommended
 
-Ferguson, Ann, and Rosemary Hennessy. "[Feminist Perspectives on Class and Work](http://plato.stanford.edu/entries/feminism-class/)," Stanford Encyclopedia of Philosophy.
+Ferguson, Ann, and Rosemary Hennessy. "{{% resource_link "f8ce376a-679b-4064-b689-d25e0125d44f" "Feminist Perspectives on Class and Work" %}}," Stanford Encyclopedia of Philosophy.
 
-Fraser, Nancy, and Linda Gordon. "[A Genealogy of _Dependency_: Tracing a Keyword of the U.S. Welfare State](http://www.jstor.org/stable/3174801)." _Signs_ 19, no. 2 (1994): 309–36.
+Fraser, Nancy, and Linda Gordon. "{{% resource_link "54bce640-8d2a-4465-8a1a-dab214700e20" "A Genealogy of _Dependency_: Tracing a Keyword of the U.S. Welfare State" %}}." _Signs_ 19, no. 2 (1994): 309–36.
 
 
 {{< tdclose >}}
@@ -385,7 +384,7 @@ Pornography
 {{< tdopen >}}
 
 
-MacKinnon, Catharine A. "[Not a Moral Issue](http://www.jstor.org/stable/40239168)." _Yale Law & Policy Review_ 2, no. 2 (1984): 321–45.
+MacKinnon, Catharine A. "{{% resource_link "15296a97-f520-44d8-b8b5-0bd20ecb39fe" "Not a Moral Issue" %}}." _Yale Law & Policy Review_ 2, no. 2 (1984): 321–45.
 
 \[TF\] Stoltenberg, John. "Confronting Pornography as a Civil-Rights Issue."
 
@@ -479,7 +478,7 @@ Recognition and Redistribution
 
 ### Recommended
 
-Fraser, Nancy. "[From Redistribution to Recognition? Dilemmas of Justice in a 'Post-Socialist' Age](http://newleftreview.org/I/212/nancy-fraser-from-redistribution-to-recognition-dilemmas-of-justice-in-a-post-socialist-age)." _New Left Review_ I, no. 212 (1995): 68–93.
+Fraser, Nancy. "{{% resource_link "922f889a-3903-4a44-84d6-ae27d7b91eaf" "From Redistribution to Recognition? Dilemmas of Justice in a 'Post-Socialist' Age" %}}." _New Left Review_ I, no. 212 (1995): 68–93.
 
 
 {{< tdclose >}}
@@ -504,7 +503,7 @@ Butler, Judith. "Variations on Sex and Gender: Beauvoir, Wittig, and Foucault." 
 {{< tdopen >}}
 
 
-Film: _[Forbidden Voices: How to Start a Revolution with a Laptop](http://forbiddenvoices.net/en/en-start.html)._ Directed by Barbara Miller. Color, 95 min. 2012.
+Film: _{{% resource_link "8414ed52-0403-4fe4-82dc-77657c0a28cc" "Forbidden Voices: How to Start a Revolution with a Laptop" %}}._ Directed by Barbara Miller. Color, 95 min. 2012.
 
 
 {{< tdclose >}}
@@ -537,11 +536,11 @@ Masculinities
 
 hooks, bell. "Gangsta Culture: A Piece of the Action." In _We Real Cool: Black Men and Masculinity_. Routledge, 2003. ISBN: 9780415969277.
 
-Connell, R. W. "Men of Reason." In _Masculinities_. 2nd ed. University of California Press, 2005. ISBN: 9780520246980. \[Preview with [Google Books](http://books.google.com/books?id=YuR2uFxxvPoC&pg=PA164=onepage)\]
+Connell, R. W. "Men of Reason." In _Masculinities_. 2nd ed. University of California Press, 2005. ISBN: 9780520246980. \[Preview with {{% resource_link "40f1b509-8ac5-420c-bbe2-3221cedf4fdf" "Google Books" %}}\]
 
 ### Recommended
 
-Connell, R. W. "The Social Organization of Masculinity." In _Masculinities_. 2nd ed. University of California Press, 2005. ISBN: 9780520246980. \[Preview with [Google Books](http://books.google.com/books?id=YuR2uFxxvPoC&pg=PA67=onepage)\]
+Connell, R. W. "The Social Organization of Masculinity." In _Masculinities_. 2nd ed. University of California Press, 2005. ISBN: 9780520246980. \[Preview with {{% resource_link "68bc603d-7a94-476b-b2ee-570b0e3829de" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -555,7 +554,7 @@ Connell, R. W. "The Social Organization of Masculinity." In _Masculinities_. 2nd
 Epistemic Injustice
 {{< tdclose >}}
 {{< tdopen >}}
-Fricker, Miranda. "[Epistemic Justice as a Condition of Political Freedom?](http://dx.doi.org/10.1007/s11229-012-0227-3)" _Synthese_ 190, no. 7 (2013): 1317–32.
+Fricker, Miranda. "{{% resource_link "a2dd4847-f444-4b20-8b92-056a3cb39db1" "Epistemic Justice as a Condition of Political Freedom?" %}}" _Synthese_ 190, no. 7 (2013): 1317–32.
 {{< tdclose >}}
 
 {{< trclose >}}

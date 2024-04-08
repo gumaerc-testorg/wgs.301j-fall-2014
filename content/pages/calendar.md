@@ -71,7 +71,7 @@ Response paper due
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Film: [_Diagnosing Difference_](http://www.diagnosingdifference.com/). Directed by Annalise Ophelian. Color, 64 min. 2009.
+Film: {{% resource_link "44f0fdd0-413b-4c58-a445-f059b74602f6" "_Diagnosing Difference_" %}}. Directed by Annalise Ophelian. Color, 64 min. 2009.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -337,7 +337,7 @@ Response paper draft due (undergraduates)
 {{< tdopen >}}
 
 
-Film: _[Forbidden Voices: How to Start a Revolution with a Laptop](http://forbiddenvoices.net/en/en-start.html)._ Directed by Barbara Miller. Color, 95 min. 2012.
+Film: _{{% resource_link "8414ed52-0403-4fe4-82dc-77657c0a28cc" "Forbidden Voices: How to Start a Revolution with a Laptop" %}}._ Directed by Barbara Miller. Color, 95 min. 2012.
 
 _Note: This session was optional_
 
