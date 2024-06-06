@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to child bearing black women.
 file: /courses/wgs-301j-feminist-thought-fall-2014/7eb57b95b79d3337ddcbc286699a38c6_MITWGS_301JF14_Sess20.pdf
+file_size: 271388
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

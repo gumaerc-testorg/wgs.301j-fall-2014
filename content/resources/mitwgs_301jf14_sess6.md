@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to Constructions of Gender.
 file: /courses/wgs-301j-feminist-thought-fall-2014/1ac51c24219d01cc0783d0c63df3c6e9_MITWGS_301JF14_Sess6.pdf
+file_size: 219186
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to epistemic injustice.
 file: /courses/wgs-301j-feminist-thought-fall-2014/24e11345ec31ad8f6fd27c0c104165d9_MITWGS_301JF14_Sess26.pdf
+file_size: 243842
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
