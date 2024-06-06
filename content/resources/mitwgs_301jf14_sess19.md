@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to identity politics.
 file: /courses/wgs-301j-feminist-thought-fall-2014/73830d840b809f1a3b80af88614c854c_MITWGS_301JF14_Sess19.pdf
+file_size: 183950
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

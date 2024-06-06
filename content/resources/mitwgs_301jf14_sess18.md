@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to women, lesbians, virgins.
 file: /courses/wgs-301j-feminist-thought-fall-2014/1a3d12f832801c60aca589dd4a69eb31_MITWGS_301JF14_Sess18.pdf
+file_size: 208284
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
