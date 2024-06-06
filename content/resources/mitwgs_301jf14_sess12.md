@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to From Humanism to Gynocentrism.
 file: /courses/wgs-301j-feminist-thought-fall-2014/cadae5faf931b44f35d4dd3183cb3875_MITWGS_301JF14_Sess12.pdf
+file_size: 222483
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
