@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to The Subjection of Women.
-file: /courses/wgs-301j-feminist-thought-fall-2014/cc14d90f24c570a3b7fecdc9d51136af_MITWGS_301JF14_Sess7.pdf
+file: /ol-ocw-studio-app/courses/wgs-301j-feminist-thought-fall-2014/cc14d90f24c570a3b7fecdc9d51136af_MITWGS_301JF14_Sess7.pdf
 file_size: 202979
 file_type: application/pdf
 learning_resource_types:

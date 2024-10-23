@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Prejudice.
-file: /courses/wgs-301j-feminist-thought-fall-2014/ec8b7f268c757fd9a36772491fe766f6_MITWGS_301JF14_Sess2.pdf
+file: /ol-ocw-studio-app/courses/wgs-301j-feminist-thought-fall-2014/ec8b7f268c757fd9a36772491fe766f6_MITWGS_301JF14_Sess2.pdf
 file_size: 252109
 file_type: application/pdf
 learning_resource_types:

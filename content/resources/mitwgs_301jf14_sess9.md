@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Beauvoir and Butler.
-file: /courses/wgs-301j-feminist-thought-fall-2014/aa9149843e875dfb8c96d38df46f37d3_MITWGS_301JF14_Sess9.pdf
+file: /ol-ocw-studio-app/courses/wgs-301j-feminist-thought-fall-2014/aa9149843e875dfb8c96d38df46f37d3_MITWGS_301JF14_Sess9.pdf
 file_size: 230948
 file_type: application/pdf
 learning_resource_types:

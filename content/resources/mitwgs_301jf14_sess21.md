@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to recognition redistribution.
-file: /courses/wgs-301j-feminist-thought-fall-2014/02e3cb3f2cd621d933b32eac07ed4e60_MITWGS_301JF14_Sess21.pdf
+file: /ol-ocw-studio-app/courses/wgs-301j-feminist-thought-fall-2014/02e3cb3f2cd621d933b32eac07ed4e60_MITWGS_301JF14_Sess21.pdf
 file_size: 184405
 file_type: application/pdf
 learning_resource_types:

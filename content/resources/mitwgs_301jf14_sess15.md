@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to difference and dominance.
-file: /courses/wgs-301j-feminist-thought-fall-2014/a28ec3063cd4d874f9ea8acf71224ff8_MITWGS_301JF14_Sess15.pdf
+file: /ol-ocw-studio-app/courses/wgs-301j-feminist-thought-fall-2014/a28ec3063cd4d874f9ea8acf71224ff8_MITWGS_301JF14_Sess15.pdf
 file_size: 207011
 file_type: application/pdf
 learning_resource_types:

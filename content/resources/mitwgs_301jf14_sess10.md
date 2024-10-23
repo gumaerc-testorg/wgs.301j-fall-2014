@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to justice and human capabilities.
-file: /courses/wgs-301j-feminist-thought-fall-2014/282b0328380bd01a92c1ccd8cf4a2ec0_MITWGS_301JF14_Sess10.pdf
+file: /ol-ocw-studio-app/courses/wgs-301j-feminist-thought-fall-2014/282b0328380bd01a92c1ccd8cf4a2ec0_MITWGS_301JF14_Sess10.pdf
 file_size: 211730
 file_type: application/pdf
 learning_resource_types:
