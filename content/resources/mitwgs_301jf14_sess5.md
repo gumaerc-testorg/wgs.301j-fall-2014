@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Social Construction.
-file: /courses/wgs-301j-feminist-thought-fall-2014/69cccf9296dd9b6b56b8cab76d296ee5_MITWGS_301JF14_Sess5.pdf
+file: /ol-ocw-studio-app/courses/wgs-301j-feminist-thought-fall-2014/69cccf9296dd9b6b56b8cab76d296ee5_MITWGS_301JF14_Sess5.pdf
 file_size: 255469
 file_type: application/pdf
 learning_resource_types:
