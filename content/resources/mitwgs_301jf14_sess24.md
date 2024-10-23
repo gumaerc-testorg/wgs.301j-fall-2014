@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to veiling.
-file: /courses/wgs-301j-feminist-thought-fall-2014/00aaa62e4f53bde9705f4bc301b6b732_MITWGS_301JF14_Sess24.pdf
+file: /ol-ocw-studio-app/courses/wgs-301j-feminist-thought-fall-2014/00aaa62e4f53bde9705f4bc301b6b732_MITWGS_301JF14_Sess24.pdf
 file_size: 280694
 file_type: application/pdf
 learning_resource_types:

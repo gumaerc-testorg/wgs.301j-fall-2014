@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to materialist feminism.
-file: /courses/wgs-301j-feminist-thought-fall-2014/ef8244c33122ab04134a6351f82774ab_MITWGS_301JF14_Sess16.pdf
+file: /ol-ocw-studio-app/courses/wgs-301j-feminist-thought-fall-2014/ef8244c33122ab04134a6351f82774ab_MITWGS_301JF14_Sess16.pdf
 file_size: 214850
 file_type: application/pdf
 learning_resource_types:

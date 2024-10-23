@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Privilege.
-file: /courses/wgs-301j-feminist-thought-fall-2014/ff7cd8e6dde1eac08fc8b82a222fc1ef_MITWGS_301JF14_Sess3.pdf
+file: /ol-ocw-studio-app/courses/wgs-301j-feminist-thought-fall-2014/ff7cd8e6dde1eac08fc8b82a222fc1ef_MITWGS_301JF14_Sess3.pdf
 file_size: 237917
 file_type: application/pdf
 learning_resource_types:

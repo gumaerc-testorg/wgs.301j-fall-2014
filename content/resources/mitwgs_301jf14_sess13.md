@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to maternal peace politics.
-file: /courses/wgs-301j-feminist-thought-fall-2014/afcfd9d76ce9bda85184aaa2f4d6ce3f_MITWGS_301JF14_Sess13.pdf
+file: /ol-ocw-studio-app/courses/wgs-301j-feminist-thought-fall-2014/afcfd9d76ce9bda85184aaa2f4d6ce3f_MITWGS_301JF14_Sess13.pdf
 file_size: 200227
 file_type: application/pdf
 learning_resource_types:
